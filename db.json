@@ -1,0 +1,248 @@
+{
+  "dictionaries": [
+    {
+      "id": "5bcb649d8b19224b86af7b29",
+      "name": "XINWARE",
+      "entries": [
+        {
+          "domain": "dolor",
+          "range": "dolore"
+        },
+        {
+          "domain": "eiusmod",
+          "range": "nostrud"
+        },
+        {
+          "domain": "sunt",
+          "range": "excepteur"
+        },
+        {
+          "domain": "sunt",
+          "range": "voluptate"
+        },
+        {
+          "domain": "labore",
+          "range": "officia"
+        },
+        {
+          "domain": "officia",
+          "range": "est"
+        }
+      ]
+    },
+    {
+      "id": "5bcb649da026e88af1c59c59",
+      "name": "METROZ",
+      "entries": [
+        {
+          "domain": "sint",
+          "range": "anim"
+        },
+        {
+          "domain": "proident",
+          "range": "et"
+        },
+        {
+          "domain": "Lorem",
+          "range": "nostrud"
+        },
+        {
+          "domain": "non",
+          "range": "deserunt"
+        },
+        {
+          "domain": "fugiat",
+          "range": "culpa"
+        }
+      ]
+    },
+    {
+      "id": "5bcb649d4400790d5f8e45c0",
+      "name": "SUREPLEX",
+      "entries": [
+        {
+          "domain": "officia",
+          "range": "adipisicing"
+        },
+        {
+          "domain": "dolor",
+          "range": "fugiat"
+        },
+        {
+          "domain": "cillum",
+          "range": "adipisicing"
+        },
+        {
+          "domain": "fugiat",
+          "range": "laborum"
+        },
+        {
+          "domain": "ea",
+          "range": "quis"
+        },
+        {
+          "domain": "ad",
+          "range": "sint"
+        }
+      ]
+    },
+    {
+      "id": "5bcb649dbb1b87d56b91f416",
+      "name": "BALUBA",
+      "entries": [
+        {
+          "domain": "irure",
+          "range": "ad"
+        },
+        {
+          "domain": "voluptate",
+          "range": "cillum"
+        },
+        {
+          "domain": "quis",
+          "range": "anim"
+        },
+        {
+          "domain": "pariatur",
+          "range": "enim"
+        },
+        {
+          "domain": "pariatur",
+          "range": "officia"
+        }
+      ]
+    },
+    {
+      "id": "5bcb649d15bdb6dfadd67c9c",
+      "name": "duplicates_here",
+      "entries": [
+        {
+          "domain": "anim",
+          "range": "cupidatat"
+        },
+        {
+          "domain": "anim",
+          "range": "cupidatat"
+        },
+        {
+          "domain": "anim",
+          "range": "cupidatat"
+        },
+        {
+          "domain": "eiusmod",
+          "range": "quis"
+        },
+        {
+          "domain": "veniam",
+          "range": "quis"
+        },
+        {
+          "domain": "cillum",
+          "range": "aute"
+        },
+        {
+          "domain": "dolor",
+          "range": "ex"
+        },
+        {
+          "domain": "amet",
+          "range": "quis"
+        },
+        {
+          "domain": "excepteur",
+          "range": "commodo"
+        }
+      ]
+    },
+    {
+      "id": "5bdaskao9da0f1eajidsaoa2",
+      "name": "forks_here",
+      "entries": [
+        {
+          "domain": "deserunt",
+          "range": "eu"
+        },
+        {
+          "domain": "deserunt",
+          "range": "nisi"
+        },
+        {
+          "domain": "deserunt",
+          "range": "elit"
+        },
+        {
+          "domain": "sunt",
+          "range": "occaecat"
+        },
+        {
+          "domain": "ullamco",
+          "range": "incididunt"
+        },
+        {
+          "domain": "aute",
+          "range": "ea"
+        },
+        {
+          "domain": "qui",
+          "range": "labore"
+        }
+      ]
+    },
+    {
+      "id": "5bdazogo9da03agajidspok2",
+      "name": "chains_here",
+      "entries": [
+        {
+          "domain": "deserunt",
+          "range": "eu"
+        },
+        {
+          "domain": "eu",
+          "range": "nisi"
+        },
+        {
+          "domain": "nisi",
+          "range": "occaecat"
+        },
+        {
+          "domain": "ullamco",
+          "range": "incididunt"
+        },
+        {
+          "domain": "aute",
+          "range": "ea"
+        },
+        {
+          "domain": "qui",
+          "range": "labore"
+        }
+      ]
+    },
+    {
+      "name": "cycles_here",
+      "entries": [
+        {
+          "domain": "eu",
+          "range": "nisi",
+          "_id": 1540239892405
+        },
+        {
+          "domain": "nisi",
+          "range": "deserunt",
+          "_id": 1540243677152
+        },
+        {
+          "domain": "deserunt",
+          "range": "eu",
+          "_id": 1540240935780
+        },
+        {
+          "domain": "qui",
+          "range": "labore",
+          "_id": 1540245805108
+        }
+      ],
+      "id": "5b03agefapvgdspqa0ajiok2"
+    }
+  ]
+}

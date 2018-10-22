@@ -3,15 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bulma": "^0.7.2",
+    "find-cycle": "^1.0.0",
+    "formik": "^1.3.1",
+    "json-server": "^0.14.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "react-scripts": "2.0.5"
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.0.5",
+    "yup": "^0.26.6"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "echo \"Don't forget to run npm start:server!!!\" && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "start:client": "react-scripts start",
+    "start:server": "json-server --watch db.json --port 8081 --delay 250"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -21,5 +29,11 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "standard": {
+    "env": [
+      "jest"
+    ]
+  },
+  "proxy": "http://localhost:8081"
 }

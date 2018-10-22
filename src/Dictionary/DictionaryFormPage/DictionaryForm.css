@@ -1,0 +1,21 @@
+.dictionary-form {
+  max-width: 450px;
+  text-align: left;
+  margin: 0 auto;
+}
+
+.dictionary-form__delete-icon-container {
+  position: relative;
+}
+
+.dictionary-form__delete-icon {
+  position: absolute;
+  right: -70px;
+  top: 5px;
+  cursor: pointer;
+  transition: 0.25s ease-out opacity;
+}
+
+.dictionary-form__delete-icon:hover {
+  opacity: 0.60;
+}

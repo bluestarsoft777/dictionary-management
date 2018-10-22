@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.header__title {
+
+}
+
+.header__navigation {
+
+}
+
+.header__navigation-link {
+  padding: 5px 10px;
+}
+
+.header__navigation-link + .header__navigation-link {
+  margin-left: 10px;
+}
